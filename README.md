@@ -1,4 +1,4 @@
-#Nike Landing Page
+# Nike Landing Page
 
 A fully responsive clone nike landing page, primarily built with ReactJS and styled with Tailwind CSS.
 For faster and better development experience, Vite was utilized.
