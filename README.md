@@ -1,4 +1,9 @@
-# React + Vite
+#Nike Landing Page
+
+A fully responsive clone nike landing page, primarily built with ReactJS and styled with Tailwind CSS.
+For faster and better development experience, Vite was utilized.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
